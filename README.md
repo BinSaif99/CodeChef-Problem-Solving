@@ -1,6 +1,6 @@
 
 <p align= "center">
-<a href = "https://www.codechef.com/"> <img src = "https://github.com/BinSaif99/CodeChef-Problem-Solving/blob/main/pic/Codechef(new)_logo.svg.png" height = "100" weight = "100"> </a>
+<a href = "https://www.codechef.com/"> <img src = "https://github.com/BinSaif99/CodeChef-Problem-Solving/blob/main/pic/Codechef(new)_logo.svg.png" height = "200" weight = "150"> </a>
 </p>
 
 # CodeForces Problem Solving 
